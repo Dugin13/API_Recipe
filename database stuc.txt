@@ -1,0 +1,23 @@
+bruger
+-id
+-navn
+
+opskrift
+-id
+-navn
+-beskrivelse
+
+upskrift indhold
+- upskrift id
+- vare id
+- mængde 
+- måle metode
+
+vare
+- id
+- navn
+
+bruger lavet
+- bruger id
+- upskrift id
+- antal gange lavet
